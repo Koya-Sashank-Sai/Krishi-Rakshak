@@ -1,0 +1,6 @@
+{
+  "name": "Krishi Rakshak",
+  "description": "AI-Powered Crop Protection – Smart Detection, Timely Action, Healthier Crops for early detection and management of crop diseases and pest infestations.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
